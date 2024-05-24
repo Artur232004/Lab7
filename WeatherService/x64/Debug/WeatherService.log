@@ -1,2 +1,6 @@
-﻿  WeatherService.cpp
+﻿  JsonService.cpp
+  Service.cpp
+  Weather.cpp
+  WeatherService.cpp
+  Создание кода...
   WeatherService.vcxproj -> C:\Users\Артур\Desktop\WeatherService\x64\Debug\WeatherService.exe
